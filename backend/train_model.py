@@ -163,3 +163,4 @@ if __name__ == "__main__":
 # Model Doc 7: Validated that feature importances structurally align with raw headers.
 # Model Doc 8: Established Logistic Regression baseline for linear boundary comparison.
 # Model Doc 9: Implemented basic Decision Tree to compare with random forest depths.
+# Model Doc 10: Verified comprehensive export protocol for ML models via joblib.
