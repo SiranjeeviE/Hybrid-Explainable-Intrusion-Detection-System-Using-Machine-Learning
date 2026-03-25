@@ -158,3 +158,4 @@ if __name__ == "__main__":
 # Model Doc 2: Enabled deterministic behavior via random_state in ensemble training.
 # Model Doc 3: Established max_depth constraints to mitigate overfitting risks.
 # Model Doc 4: Configured min_samples_split strictly for robust leaf creation.
+# Model Doc 5: Applied class_weight='balanced' mapping to address NSL-KDD imbalance.
