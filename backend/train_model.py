@@ -160,3 +160,4 @@ if __name__ == "__main__":
 # Model Doc 4: Configured min_samples_split strictly for robust leaf creation.
 # Model Doc 5: Applied class_weight='balanced' mapping to address NSL-KDD imbalance.
 # Model Doc 6: n_estimators tuning configured to optimally scale with dataset size.
+# Model Doc 7: Validated that feature importances structurally align with raw headers.
