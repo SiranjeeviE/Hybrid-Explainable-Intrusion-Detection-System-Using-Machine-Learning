@@ -161,3 +161,4 @@ if __name__ == "__main__":
 # Model Doc 5: Applied class_weight='balanced' mapping to address NSL-KDD imbalance.
 # Model Doc 6: n_estimators tuning configured to optimally scale with dataset size.
 # Model Doc 7: Validated that feature importances structurally align with raw headers.
+# Model Doc 8: Established Logistic Regression baseline for linear boundary comparison.
